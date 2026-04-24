@@ -1,20 +1,30 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <h1>Zulfiqar Ali Bhutto - Personal Portfolio</h1>
+  <p>Computer Systems Engineer | Software Developer | Data Science Enthusiast</p>
 </div>
 
-# Run and deploy your AI Studio app
+## 👨‍💻 About Me
+I am a final-year Computer Systems Engineering student at QUEST Nawabshah with a strong passion for software development, machine learning, and site engineering. This repository contains the source code for my personal portfolio website, designed to showcase my skills, education, and technical projects.
 
-This contains everything you need to run your app locally.
+## 🚀 Projects Featured
+* **Graph Neural Network for Medical Analysis**: Final Year Project (FYP) using PyTorch.
+* **Hospital Management System**: Built in C.
+* **Book Library Record Application**: Offline Android app (Kotlin, MVVM, Room DB, Jetpack Compose).
+* **SQL Cricket Database**: Backend tracking system for sports.
+* **Stock Prediction ML**: Machine learning model built with scikit-learn.
 
-View your app in AI Studio: https://ai.studio/apps/4883e7c1-44d6-4b88-82ed-c58b6f71fd59
+## 🛠️ Built With
+* React.js & Vite
+* Tailwind CSS
+* Framer Motion (for smooth animations)
+* TypeScript
+* Lucide React (Icons)
 
-## Run Locally
+## 🌐 Connect With Me
+* **Email**: 22cs30@quest.edu.pk / mirzulfiqarb@gmail.com
+* **LinkedIn**: [linkedin.com/in/mirzulfiqarbhutto](https://linkedin.com/in/mirzulfiqarbhutto)
+* **GitHub**: [github.com/zulfiqaralibhutto](https://github.com/zulfiqaralibhutto)
+* **Twitter (X)**: [@mirzulfiqarb](https://twitter.com/mirzulfiqarb)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Feel free to star ⭐ this repository if you find it helpful!*
