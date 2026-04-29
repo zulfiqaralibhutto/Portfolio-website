@@ -6,6 +6,7 @@ import {
   Twitter, Facebook, Instagram
 } from 'lucide-react';
 import { PERSONAL_INFO, SKILLS, PROJECTS, SERVICES } from './constants';
+import portfolioImg from './images/portfolio.png';
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -167,7 +168,7 @@ export default function App() {
               <div className="absolute inset-0 bg-cyan-400 rounded-3xl rotate-6 opacity-20 blur-2xl" />
               <div className="relative z-10 rounded-3xl overflow-hidden border border-white/10 shadow-2xl">
                 <img 
-                  src="portfolio.png"
+                  src={portfolioImg}
                   alt={PERSONAL_INFO.name}
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
