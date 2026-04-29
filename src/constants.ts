@@ -1,5 +1,11 @@
 import { Code2, Globe, Database, Brain, Terminal, Github, Linkedin, Mail, Download, ExternalLink, Facebook, Instagram, Twitter } from 'lucide-react';
 
+import gnnImg from './images/gnn.png';
+import hospitalImg from './images/hospital.png';
+import cricketImg from './images/cricket.png';
+import stockImg from './images/stock.png';
+import libraryImg from './images/library.png';
+
 export const PERSONAL_INFO = {
   name: "Zulfiqar Ali Bhutto",
   tagline: "Computer Systems Engineer | Software Developer | Data Science Enthusiast",
@@ -70,7 +76,7 @@ export const PROJECTS = [
     tech: ["Python", "PyTorch", "GNN"],
     github: "https://github.com/zulfiqaralibhutto",
     demo: "#",
-    image: "/src/images/gnn.png"
+    image: gnnImg
   },
   {
     title: "Hospital Management System",
@@ -78,7 +84,7 @@ export const PROJECTS = [
     tech: ["C"],
     github: "https://github.com/zulfiqaralibhutto",
     demo: "#",
-    image: "/src/images/hospital.png"
+    image: hospitalImg
   },
   {
     title: "SQL Cricket Database",
@@ -86,7 +92,7 @@ export const PROJECTS = [
     tech: ["SQL", "MySQL"],
     github: "https://github.com/zulfiqaralibhutto",
     demo: "#",
-    image: "/src/images/cricket.png"
+    image: cricketImg
   },
   {
     title: "Stock Prediction ML",
@@ -94,7 +100,7 @@ export const PROJECTS = [
     tech: ["Python", "scikit-learn"],
     github: "https://github.com/zulfiqaralibhutto",
     demo: "#",
-    image: "/src/images/stock.png"
+    image: stockImg
   },
   {
     title: "Book Library Record Application",
@@ -102,7 +108,7 @@ export const PROJECTS = [
     tech: ["Kotlin", "MVVM", "Room Database", "Jetpack Compose"],
     github: "https://github.com/zulfiqaralibhutto",
     demo: "#",
-    image: "/src/images/library.png"
+    image: libraryImg
   }
 ];
 
