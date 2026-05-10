@@ -375,7 +375,7 @@ export default function App() {
                 Let's Connect
               </SectionHeading>
               <div className="space-y-6 mt-12">
-                <a href="mailto:22cs30@quest.edu.pk" className="flex items-center gap-4 group cursor-pointer">
+               <a href="mailto:22cs30@quest.edu.pk?subject=Portfolio%20Contact&body=Hello%20Zulfiqar%2C%20I%20want%20to%20contact%20you." class="flex items-center gap-4 group cursor-pointer">
                   <div className="w-12 h-12 bg-white/5 rounded-full flex items-center justify-center text-cyan-400 group-hover:bg-cyan-400 group-hover:text-black transition-colors">
                     <Mail size={20} />
                   </div>
