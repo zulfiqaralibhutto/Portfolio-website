@@ -20,13 +20,13 @@ export const PERSONAL_INFO = {
     },
     {
       degree: "Intermediate Pre-Engineering",
-      institution: "College",
+      institution: "Super Public Higher Secondary School",
       period: "2020 - 2022",
       description: "Foundation in Mathematics, Physics, and Chemistry."
     },
     {
       degree: "Matriculation (Science)",
-      institution: "High School",
+      institution: "Super Public Higher Secondary School",
       period: "2018 - 2020",
       description: "Science fundamentals."
     }
