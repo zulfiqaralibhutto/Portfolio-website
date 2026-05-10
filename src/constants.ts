@@ -10,7 +10,7 @@ export const PERSONAL_INFO = {
   name: "Zulfiqar Ali Bhutto",
   tagline: "Computer Systems Engineer | Software Developer | Data Science Enthusiast",
   intro: "Final-year Computer Systems Engineering student with experience in web dev, ML, and site engineering. Seeking internships in software, IT, or data science.",
-  bio: "Zulfiqar Ali Bhutto is a final-year Computer Systems Engineering student at QUEST Nawabshah. He is passionate about software development, web technologies, artificial intelligence, and data science. With practical experience as a Site Engineer Intern at Huawei/Ufone and a Web Development Intern, he is actively seeking new opportunities to apply his skills in C, C++, Python, JavaScript, and Machine Learning.",
+  bio: "I'm a final-year Computer Systems Engineering student at QUEST Nawabshah, passionate about software development, web technologies, artificial intelligence, and data science. With practical experience as a Site Engineer Intern at Huawei/Ufone and a Web Development Intern, he is actively seeking new opportunities to apply his skills in C, C++, Python, JavaScript, and Machine Learning.",
   education: [
     {
       degree: "B.E Computer Systems Engineering",
