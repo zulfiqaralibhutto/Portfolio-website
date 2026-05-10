@@ -34,7 +34,7 @@ export const PERSONAL_INFO = {
   careerObjective: "Seeking internships in software engineering, IT, or data science where I can utilize my programming skills and background in computer systems.",
   socials: [
     { icon: Github, href: "https://github.com/zulfiqaralibhutto", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/mirzulfiqarbhutto", label: "LinkedIn" },
+    { icon: Linkedin, href: "https://linkedin.com/in/zulfiqaralibhutto", label: "LinkedIn" },
     { icon: Twitter, href: "https://twitter.com/mirzulfiqarb", label: "Twitter" },
     { icon: Facebook, href: "https://facebook.com/mirzulfiqarbhutto", label: "Facebook" },
     { icon: Instagram, href: "https://instagram.com/mirzulfiqarbhutto", label: "Instagram" },
